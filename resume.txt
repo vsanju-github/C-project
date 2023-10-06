@@ -1,0 +1,6 @@
+name
+dob
+doj
+pho
+contact
+email-id
